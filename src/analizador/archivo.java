@@ -4,9 +4,7 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 public class archivo {
-	
-	
-	
+		
 	public String leertxt(String direcc){
 		//recibe la direccion del archivo
 		String tex = "";
@@ -30,3 +28,5 @@ public class archivo {
 		}
 		return tex;
 	}
+	
+}
